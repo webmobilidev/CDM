@@ -9,7 +9,7 @@ Tieniti aggiornato con tutte le novità presentate alle fiere di settore nell'ap
 All'interno delle schede prodotto trova tutti i dettagli utili per orientarti nella tua scelta: nome e descrizione del prodotto, misure, materiali e caratteristiche. 
 Con la gallery guarda il prodotto da te selezionato nei minimi dettagli.
 </description>
-    <author email="infocdmsrl@gmail.com" href="www.ceramicamarino.it">
+    <author email="infocdmsrl@gmail.com" href="http://www.ceramicamarino.it">
         CDM – Ceramica d’arte Marino
     </author>
     <gap:plugin name="org.apache.cordova.device" />
